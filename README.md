@@ -51,6 +51,3 @@ Rendez-vous dans la section **Releases** pour télécharger la dernière version
 Votre nouvelle configuration est immédiatement prise en compte.
 
 ---
-
-## 📁 Structure des fichiers
-
