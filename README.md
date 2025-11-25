@@ -20,7 +20,7 @@ Idéal pour les rappels simples au quotidien : prise de pause, tâches répétit
 ## 📥 Téléchargement
 Rendez-vous dans la section **Releases** pour télécharger la dernière version :
 
-➡️ [https://github.com/**tonpseudo**/BeepScheduler/releases](https://github.com/CordaAvlao/AlarmTray/releases)
+➡️ [https://github.com/CordaAvlao/BeepScheduler/releases](https://github.com/CordaAvlao/AlarmTray/releases)
 
 ---
 
