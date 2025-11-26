@@ -1,3 +1,9 @@
+<a href="https://paypal.me/CordaAvlao" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal" height="40">
+    <span style="font-size:16px; vertical-align:middle; margin-left:8px;">Soutenir via PayPal</span>
+</a>
+
+
 # 🔔 BeepScheduler – Alarme programmable pour Windows
 
 BeepScheduler est une petite application légère qui se loge discrètement dans la zone de notification, à côté de l’horloge Windows.  
