@@ -27,7 +27,7 @@ Rendez-vous dans la section **Releases** pour télécharger la dernière version
 
 ---
 
-## 🚀 Utilisation (version 1)
+## 🚀 Utilisation (v1)
 
 ### 1️⃣ Lancer l'application
 - Lancez simplement **BeepScheduler.exe**  
