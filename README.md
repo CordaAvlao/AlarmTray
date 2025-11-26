@@ -59,7 +59,7 @@ Mes projets sont gratuits, mais prennent du temps à concevoir et à améliorer.
 Si vous souhaitez m’encourager, vous pouvez m’offrir un petit soutien ici.  
 Merci beaucoup pour votre aide !
 
-<a href="[https://paypal.me/CordaAvlao](https://www.paypal.com/ncp/payment/NPGMPUL9N9TFQ)" target="_blank">
+<a href="[https://www.paypal.com/ncp/payment/NPGMPUL9N9TFQ" target="_blank">
     <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal" height="40">
     <span style="font-size:16px; vertical-align:middle; margin-left:8px;">Soutenir via PayPal</span>
 </a>
