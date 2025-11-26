@@ -6,8 +6,8 @@ Elle permet de programmer facilement plusieurs horaires et d’émettre un **Bip
 Idéal pour les rappels simples au quotidien : prise de pause, tâches répétitives, rappels professionnels, timer discret, etc.
 
 ---
-Nécessite .Net 7.0 Desktop Runtime
-https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer
+Nécessite .Net 7.0 Desktop Runtime — téléchargeable ici : [Lien .NET 7.0 Desktop Runtime](https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer)
+
 ---
 
 ## ✨ Fonctionnalités (v1)
