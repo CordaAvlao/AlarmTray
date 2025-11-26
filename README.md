@@ -1,9 +1,3 @@
-<a href="https://paypal.me/CordaAvlao" target="_blank">
-    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal" height="40">
-    <span style="font-size:16px; vertical-align:middle; margin-left:8px;">Soutenir via PayPal</span>
-</a>
-
-
 # 🔔 BeepScheduler – Alarme programmable pour Windows
 
 BeepScheduler est une petite application légère qui se loge discrètement dans la zone de notification, à côté de l’horloge Windows.  
@@ -57,3 +51,14 @@ Rendez-vous dans la section **Releases** pour télécharger la dernière version
 Votre nouvelle configuration est immédiatement prise en compte.
 
 ---
+<a href="https://paypal.me/CordaAvlao" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal" height="40">
+    <span style="font-size:16px; vertical-align:middle; margin-left:8px;">Soutenir via PayPal</span>
+</a>
+Salut ! Je suis CordaAvlao 👋
+
+Je crée de petits utilitaires et outils simples pour Windows, comme BeepScheduler, une alarme légère qui se place près de l’horloge et que vous pouvez programmer facilement.
+
+Mes projets sont gratuits, mais prennent du temps à concevoir et à améliorer.  
+Si vous souhaitez m’encourager, vous pouvez m’offrir un petit soutien ici.  
+Merci beaucoup pour votre aide !
