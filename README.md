@@ -1,5 +1,112 @@
 # 🛎️ AlarmTray (BeepScheduler)
 
+**AlarmTray** is a lightweight Windows utility that lets you schedule simple daily alarms with either the system beep or a custom MP3 file.  
+It runs quietly in the background and stays accessible from the system tray next to the clock.
+
+This tool is designed to be simple, fast, and unobtrusive.
+
+---
+
+## ✨ What's New in Version 2
+
+- **No more editing JSON files!**  
+  A full configuration window is now available.
+- **Choose the day of the week**
+- **Select specific hours or multiple time slots**
+- **Choose the alarm type: System Beep or MP3**
+- **Adjustable volume**
+- **Instant alarm stop** with a left-click on the tray icon
+- **Quick menu with right-click → Settings**
+- **Improved tooltip information**  
+  - `Beep Scheduler`  
+  - `Left Click: Stop`  
+  - `Right Click: Settings`
+
+---
+
+## 🖥️ How It Works
+
+1. Launch `AlarmTray.exe`
+2. A bell icon appears in the system tray
+3. **Right-click → Settings**  
+   Configure your alarm times and sound source
+4. **Left-click → Stop alarm** when it rings
+5. The application runs silently in the background and saves your settings automatically
+
+---
+
+## 📥 Download
+
+➡️ **Latest release**: https://github.com/CordaAvlao/AlarmTray/releases  
+➡️ **Requires: .NET 7.0 Desktop Runtime (x64)**  
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer
+
+---
+
+## 🖼️ Screenshots
+
+*(Add your screenshots here. I can help you generate polished ones if needed.)*
+
+---
+
+## 🧩 Technical Details
+
+- Language: **C#**
+- Framework: **.NET 7**
+- Background execution
+- Automatic configuration saving
+- Windows 10 / 11 compatible
+
+---
+
+## 🚀 Roadmap (Upcoming Ideas)
+
+- Multiple alarms per day
+- Additional built-in sounds
+- Repeat modes (daily / weekly)
+- Light / dark theme
+- Export / import settings
+
+*(Feel free to propose new ideas.)*
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository  
+2. Create a feature branch (`feature/my-feature`)  
+3. Submit a Pull Request  
+
+Suggestions, improvements, and bug reports are greatly appreciated.
+
+---
+
+## ☕ Support the Project
+
+Hi! I’m **CordaAvlao** 👋
+
+I develop small, simple utilities for Windows, like **BeepScheduler**, a lightweight alarm tool that sits near your clock and can be programmed with just a few clicks.
+
+My work is free, but it takes time to build and improve these tools.  
+If you’d like to support my work, you can make a small contribution here:
+
+👉 **Support via PayPal**: https://www.paypal.com/ncp/payment/NPGMPUL9N9TFQ
+
+Thank you very much for your support!
+
+---
+
+## 📝 License
+
+This project is distributed under the **MIT License**.  
+You are free to use, modify, and redistribute it.
+
+---
+
+# 🛎️ AlarmTray (BeepScheduler)
+
 **AlarmTray** est un petit utilitaire Windows léger qui permet de programmer facilement des alarmes quotidiennes, avec un bip système ou un fichier MP3, directement depuis la zone de notification (system tray).
 
 Il fonctionne en tâche de fond, ne gêne pas, et reste toujours accessible via l’icône de cloche près de l’horloge.
