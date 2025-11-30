@@ -1,0 +1,13 @@
+{
+  "Schedules": [
+    {
+      "Day": "lundi",
+      "Times": "12:15",
+      "Audio": {
+        "UseCustomSound": false,
+        "CustomSoundPath": "",
+        "Volume": 100
+      }
+    }
+  ]
+}
