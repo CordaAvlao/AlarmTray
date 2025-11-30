@@ -1,58 +1,97 @@
-# 🔔 BeepScheduler – Alarme programmable pour Windows
+🛎️ AlarmTray – Planificateur d’alarmes discret dans la barre système
 
-BeepScheduler est une petite application légère qui se loge discrètement dans la zone de notification, à côté de l’horloge Windows.  
-Elle permet de programmer facilement plusieurs horaires et d’émettre un **Bip-Bip** à chaque heure programmée.
+Un petit utilitaire Windows léger qui permet de programmer des alarmes à heures fixes, avec bip système ou un fichier MP3 au choix.
+Le tout accessible directement depuis la zone de notification (system tray).
 
-Idéal pour les rappels simples au quotidien : prise de pause, tâches répétitives, rappels professionnels, timer discret, etc.
+✨ Nouveautés de la Version 2
 
----
-Nécessite .Net 7.0 Desktop Runtime — téléchargeable ici : [Lien .NET 7.0 Desktop Runtime](https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer)
+Plus besoin d’éditer un JSON !
+Une interface complète permet de configurer vos alarmes.
 
----
+Réglage du jour de la semaine
 
-## ✨ Fonctionnalités (v1)
-- 🔔 Alarme discrète en icône près de l'horloge
-- ⏱️ Programmation multiple d'horaires
-- 📁 Chargement d'un fichier `schedule.json`
-- 🔄 Option *Recharger le planning* via clic droit sur l’icône
-- 🟢 Fonctionnement autonome dès le lancement de `BeepScheduler.exe`
-- 💡 Très léger, pas d’installation nécessaire
+Choix de l’heure parmi plusieurs créneaux
 
----
+Choix du type d’alarme : bip système ou MP3
 
-## 📥 Téléchargement
-Rendez-vous dans la section **Releases** pour télécharger la dernière version :
+Réglage du volume
 
-➡️ [https://github.com/CordaAvlao/BeepScheduler/releases](https://github.com/CordaAvlao/AlarmTray/releases)
+Arrêt rapide de l’alarme avec clic gauche sur l’icône
 
----
+Menu clair sur l’icône
 
-## 🚀 Utilisation (v1)
+Clic gauche : Arrêter l’alarme
 
-### 1️⃣ Lancer l'application
-- Lancez simplement **BeepScheduler.exe**  
-- L’icône en forme de cloche apparaît dans la barre système (près de l’horloge)
+Clic droit : Ouvrir les paramètres
 
----
+Infobulle :
 
-### 2️⃣ Programmer vos horaires
-1. Ouvrez le fichier :  
-   **`json_generator.html`**
-2. Ajoutez les horaires qui vous intéressent via l’interface
-3. Cliquez sur **“Copier le JSON”**
-4. Ouvrez le fichier **`schedule.json`**
-5. Faites :  
-   **Ctrl+A** → **Ctrl+V** pour remplacer le contenu
-6. Sauvegardez
+Beep Scheduler
 
----
+Clic G : arrêt
 
-### 3️⃣ Recharger les horaires
-1. Faites clic droit sur l’icône **cloche**  
-2. Cliquez sur **“Recharger le planning”**
+Clic D : paramètres
 
-Votre nouvelle configuration est immédiatement prise en compte.
+📥 Téléchargement
 
+◾ Dernière version : ➡️ Releases GitHub
+
+
+◾ Nécessite : .NET 7.0 Desktop Runtime
+(Téléchargement Microsoft : https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer
+
+)
+
+🖼️ Aperçu
+
+(Je peux te générer des captures d’écran propres si tu veux.)
+
+🧰 Fonctionnement
+
+Lancez AlarmTray.exe.
+
+Une icône de cloche apparaît dans la barre système.
+
+Clic droit → Paramètres pour ajouter/modifier les alarmes.
+
+L’alarme sonne à l’heure programmée.
+
+Clic gauche → Arrêt immédiat.
+
+⚙️ Structure technique
+
+Langage : C# — .NET 7
+
+Fonctionne en tâche de fond, très léger
+
+Sauvegarde automatique des réglages
+
+🧩 Roadmap (idées futures)
+
+Support des alarmes multiples par jour
+
+Sons intégrés supplémentaires
+
+Recurrent alarms (quotidien, hebdomadaire, etc.)
+
+Mode "ne pas déranger"
+
+(Tu peux en ajouter ou retirer.)
+
+🤝 Contribuer
+
+Fork le projet
+
+Crée une branche (feature/xxx)
+
+Propose une Pull Request
+
+Suggestions, bugs et idées sont les bienvenues !
+
+
+📝 Licence
+
+MIT — libre utilisation et modification.
 ---
 Salut ! Je suis CordaAvlao 👋
 
