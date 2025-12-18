@@ -1,4 +1,4 @@
-🛎️ AlarmTray (BeepScheduler) V3.0
+🛎️ AlarmTray (BeepScheduler) V2.5
 
 AlarmTray is a modern, lightweight alarm and beep scheduler for Windows. It runs quietly in the background and stays accessible from the system tray next to the clock.
 
@@ -25,7 +25,7 @@ Latest releases are available here: [Releases](https://github.com/CordaAvlao/Ala
 
 ---
 
-🛎️ AlarmTray (BeepScheduler) V3.0 (Français)
+🛎️ AlarmTray (BeepScheduler) V2.5 (Français)
 
 AlarmTray est un petit utilitaire Windows léger qui permet de programmer facilement des alarmes quotidiennes, avec un bip système ou un fichier MP3/WAV, directement depuis la zone de notification.
 
@@ -64,3 +64,4 @@ Enjoying this tool? You can support my work via PayPal: [Support CordaAvlao](htt
 
 📝 **License**
 Distributed under the MIT License.
+
