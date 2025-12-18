@@ -2,7 +2,7 @@
 
 AlarmTray is a modern, lightweight alarm and beep scheduler for Windows. It runs quietly in the background and stays accessible from the system tray next to the clock.
 
-✨ **What's New in Version 3.0**
+✨ **What's New in Version 2.5**
 - **New Audio Engine (NAudio)**: Fully rewritten audio system using NAudio and WasapiOut.
 - **Full MP3 & WAV Support**: Play any audio file reliably.
 - **Precise Volume Control**: Software volume slider (0-100%) now fully functional.
@@ -64,5 +64,6 @@ Enjoying this tool? You can support my work via PayPal: [Support CordaAvlao](htt
 
 📝 **License**
 Distributed under the MIT License.
+
 
 
