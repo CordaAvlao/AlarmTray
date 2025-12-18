@@ -29,7 +29,7 @@ Latest releases are available here: [Releases](https://github.com/CordaAvlao/Ala
 
 AlarmTray est un petit utilitaire Windows léger qui permet de programmer facilement des alarmes quotidiennes, avec un bip système ou un fichier MP3/WAV, directement depuis la zone de notification.
 
-✨ **Nouveautés de la Version 3.0**
+✨ **Nouveautés de la Version 2.5**
 - **Nouveau Moteur Audio (NAudio)** : Système audio entièrement réécrit pour une compatibilité maximale.
 - **Support MP3 et WAV** : Jouez n'importe quel fichier audio sans erreur.
 - **Contrôle du Volume Réel** : La barre de volume (0-100%) fonctionne désormais parfaitement pour toutes les sources sonores.
@@ -64,4 +64,5 @@ Enjoying this tool? You can support my work via PayPal: [Support CordaAvlao](htt
 
 📝 **License**
 Distributed under the MIT License.
+
 
